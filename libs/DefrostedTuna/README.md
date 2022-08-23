@@ -1,5 +1,11 @@
 # Windower 4 Support Libraries
 
+<p align="center">
+  <a href="https://github.com/DefrostedTuna/ffxi-windower-4-support-libraries/releases">
+    <img src="https://img.shields.io/github/v/release/DefrostedTuna/ffxi-windower-4-support-libraries?label=Stable&sort=semver&logo=github&style=flat-square">
+  </a>
+</p>
+
 This is a collection of support libraries for [Windower 4](https://www.windower.net/) that can be used for general addon development. These libraries are required for some of the addons that I've personally developed, and may also be used freely by others to develop thier own addons as well. While they do not provide any standalone functionality on their own, the included libraries are aimed at reducing the amount of code that is required within an individual addon's codebase and to keep things as [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) as possible.
 
 ## Installation
