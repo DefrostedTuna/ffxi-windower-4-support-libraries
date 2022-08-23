@@ -72,7 +72,7 @@ print(movement:getMoving()) -- true if the player character is walking/running, 
 ```
 
 ```lua
-local MovementLibrary = require 'DefrostedTuna/Movement
+local MovementLibrary = require 'DefrostedTuna/Movement'
 
 instanceOne = MovementLibrary:new()
 instanceTwo = MovementLibrary:new()
