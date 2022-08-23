@@ -17,6 +17,7 @@ windower/
 ├── addons/
 │   └── libs/
 │       └── DefrostedTuna/
+│           ├── .versioninfo
 │           ├── helpers.lua
 │           ├── Movement.lua
 │           └── README.md
